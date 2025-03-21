@@ -1,5 +1,7 @@
 # Rediseño y Optimización del Sitio Web del Colegio Juan de Dios Carvajal
 
+###Integrantes:Luis camilo rossi ibarra, Sergio Andrés zapata Álvare
+
 ## Descripción del Proyecto
 Vamos a reconstruir y modernizar la página web del Colegio Juan de Dios Carvajal ([https://iejuandedioscarvajal.edu.co/](https://iejuandedioscarvajal.edu.co/)), creando una plataforma digital que sea funcional, atractiva y fácil de usar para todos los miembros de la comunidad educativa (estudiantes, padres, profesores y personal administrativo). El nuevo sitio web será una herramienta centralizada para acceder a información, recursos y servicios del colegio.
 
